@@ -3,12 +3,20 @@ bye
 thanks
 please
 sorry
-good
-bad
+Here you go.
 
 yes
 no
+Yes, please.
+No, thank you.
 ok
+
+good
+bad
+
+help
+
+this
 
 passport
 credit card
@@ -17,6 +25,9 @@ money
 restaurant
 super market
 toilet
+to loose
+I've lost my passport.
+Do you know somebody who knows English?
 
 water
 drinking water
@@ -24,36 +35,62 @@ beer
 wine
 red wine
 alcohol
+cheers
+one more
+Is it save to drink the water?
+
+no problem
+problem
+rolling tobacco
+
 coffee
 cigarettes
 lighter
+ash tray
 
-help
 push
 pull
 entrance
 exit
-cheers
 
-hotel
 airport
 taxi
 train
 train station
 bus
 bus stop
+to shower
+hotel
+This is my hotel.
+This doesn't work.
+
 police
 doctor
 hospital
 emergency
 pharmacy
 medicine
+thief
+scam
+ambulance
+
+to call
+to speak
+to need
+to want
+much
+a little
+
+Call an ambulance.
+I need a doctor.
+I want to call Viktor.
+I speak very little English.
+
 internet
 phone
 to charge
 charger
 electricity
-to shower
 computer
 laptop
 
@@ -63,10 +100,14 @@ right
 straight ahead
 close
 far
+back
+return
+one way
+How long does it take?
+Where is Viktor?
 
-one more
-hot
-cold
+Where can I charge my phone?
+What time is it?
 
 reservation
 room
@@ -75,13 +116,14 @@ check-in
 check-out
 ticket
 
+hot
+cold
 open
 closed
 happy
 sad
-broken
-old
 young
+old
 beautiful
 pretty
 small
@@ -89,6 +131,9 @@ big
 slow
 fast
 wonderful
+inside
+outside
+broken
 
 I
 you
@@ -98,13 +143,12 @@ we
 you guys
 they
 
+which
 when
 who
 how
 what
 
-much
-little
 with
 without
 alone
@@ -137,7 +181,6 @@ to clean
 to sit
 to buy
 to pay
-to call
 to talk
 to sleep
 to be
@@ -148,8 +191,6 @@ to go
 to come
 to see
 to look (at)
-to want
-to need
 to know
 to understand
 
@@ -175,21 +216,18 @@ stomach ache
 vomit
 diarrhea
 broken bone
-thief
-scam
 
-problem
-no problem
-woman
-man
-rolling tobacco
-bill
-meat
 car
 scooter
 boat
+airplane
+
+bill
+
 Germany
 
+woman
+man
 friend
 girlfriend
 boyfriend
@@ -198,8 +236,11 @@ wife
 child
 son
 daughter
+boy
+girl
 
 food
+meat
 animal
 chicken
 beef
@@ -209,12 +250,12 @@ rice
 noodle
 bread
 spicy
+vegetarian
+vegan
 
 nothing
 all
 everything
-back
-vegetarian
 
 morning
 afternoon
@@ -228,6 +269,7 @@ hour
 week
 month
 year
+
 Monday
 Tuesday
 Wednesday
@@ -242,54 +284,43 @@ third
 
 vacation
 work
+student
+university
+
 city
 village
+street
 
+I have a reservation.
+A table for five people, please.
+That's great.
 This is tasty.
-I need a break.
-Here you go.
-Come with me.
+I want Viktor.
+I don't want Viktor.
+Do you want Viktor?
+My name is Viktor.
+What's your name?
+How much?
+Can I have a receipt?
+I like Viktor.
+I don't like Viktor.
+Can you take me to Viktor?
+Where can I get Viktor?
+How much does this cost?
+
+Let's talk.
+How are you?
 Nice to meet you.
 I love it here.
-That's great.
-I understand.
-Yes, please.
-Let's talk.
-This is my hotel.
-This doesn't work.
-Let's go on a date together.
-No, thank you.
-I didn't understand.
-Sorry, I don't speak English.
-You have a beautiful smile.
-I have a reservation.
-Call an ambulance.
-
-I've lost my passport.
-I need a doctor.
-I want to call ...
-I speak very little ...
-I want ...
-I don't want ...
-My name is Viktor.
-I don't like ...
-I like ...
-Where is ...
-How much does this cost?
-Can you take me to ...?
-Where can I get ...?
 Can you please talk slower?
 Can you please repeat that?
+I understand.
+I didn't understand.
+Sorry, I don't speak English.
 What's your favorite local dish?
 Can you recommend a good place to visit?
 Where are you from?
-Is it save to drink the water?
-What time is it?
-How long does it take?
-Where can I charge my phone?
 What do you want?
-What's your name?
-How are you?
-Can I have a receipt?
-How much?
-Do you know somebody who knows English?
+Let's go on a date together.
+You have a beautiful smile.
+Come with me.
