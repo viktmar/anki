@@ -61,6 +61,8 @@ where
 left
 right
 straight ahead
+close
+far
 
 one more
 hot
@@ -128,7 +130,7 @@ seventy
 eighty
 ninety
 one hundred
-One hundred twenty-seven
+one hundred twenty-seven
 one thousand
 
 to clean
@@ -176,7 +178,6 @@ broken bone
 thief
 scam
 
-food
 problem
 no problem
 woman
@@ -198,6 +199,7 @@ child
 son
 daughter
 
+food
 animal
 chicken
 beef
