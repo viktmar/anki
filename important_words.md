@@ -13,6 +13,7 @@ ok
 passport
 credit card
 ATM
+money
 restaurant
 super market
 toilet
@@ -39,6 +40,7 @@ airport
 taxi
 train
 train station
+bus
 bus stop
 police
 doctor
@@ -174,7 +176,6 @@ broken bone
 thief
 scam
 
-money
 food
 problem
 no problem
@@ -185,7 +186,6 @@ bill
 meat
 car
 scooter
-bus
 boat
 Germany
 
