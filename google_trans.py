@@ -6,6 +6,7 @@ from googletrans import Translator
 # https://cloud.google.com/translate/docs/languages
 language = "vi"
 
+
 # load words from file
 lines = []
 with open("important_words.md", "r") as f:

@@ -9,6 +9,7 @@ from gtts import gTTS
 # https://cloud.google.com/translate/docs/languages
 language = "vi"
 
+
 path = language + "_audio"
 
 # Sample list of lists with front and back for each card
