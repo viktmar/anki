@@ -1,0 +1,5 @@
+*.md
+*_audio
+*apkg
+
+.DS_Store
