@@ -1,7 +1,8 @@
 
-import genanki
 import random
 import os
+import genanki
+from gtts import gTTS
 
 language = "vi"
 
@@ -18,8 +19,6 @@ assert all(len(l) == 2 for l in lines), "number of fields must be 2 for each wor
 # ==================================================================================================
 # generate audio
 # ==================================================================================================
-from gtts import gTTS
-
 if not os.path.exists(path):
     os.makedirs(path)
 
