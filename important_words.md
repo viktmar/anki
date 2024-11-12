@@ -13,6 +13,8 @@ ok
 
 good
 bad
+not good
+very good
 
 help
 
@@ -36,6 +38,8 @@ wine
 red wine
 alcohol
 cheers
+tasty
+very tasty
 one more
 Is it save to drink the water?
 
