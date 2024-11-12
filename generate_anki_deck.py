@@ -3,7 +3,7 @@ import genanki
 import random
 import os
 
-language = "ja"
+language = "vi"
 
 path = language + "_audio"
 
@@ -26,7 +26,8 @@ if not os.path.exists(path):
 for line in lines:
     file_path = os.path.join(path, line[0] + '.mp3')
     if not os.path.exists(file_path):
-        tts = gTTS(line[1], lang=language)
+        tt = line[1].split(" [")[0]
+        tts = gTTS(tt, lang=language)
         tts.save(file_path)
 
 # ==================================================================================================
@@ -70,6 +71,9 @@ model = genanki.Model(
 
 # create the deck
 deck = genanki.Deck(deck_id, language)
+
+for line in lines:
+    line[1] = line[1].replace(" [", "<br>[")
 
 # add cards to the deck
 for english, foreign in lines:

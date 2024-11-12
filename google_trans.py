@@ -4,8 +4,7 @@ from googletrans import Translator
 # list of all available languages here:
 # https://cloud.google.com/translate/docs/languages
 
-# language = "vi"
-language = "ja"
+language = "vi"
 # language = "th"
 
 # load words from file
@@ -26,7 +25,7 @@ for t in translated:
     if t.pronunciation is None or t.pronunciation == t.origin:
         tt = t.text
     else:
-        tt = t.text + "   [ " + t.pronunciation + " ]"
+        tt = t.text + " [ " + t.pronunciation + " ]"
     translated_text.append([t.origin, tt])
 
 # create a string
