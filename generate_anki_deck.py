@@ -4,6 +4,9 @@ import os
 import genanki
 from gtts import gTTS
 
+# set the language code of the desired language
+# list of all available languages here:
+# https://cloud.google.com/translate/docs/languages
 language = "vi"
 
 path = language + "_audio"

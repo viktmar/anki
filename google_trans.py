@@ -1,11 +1,10 @@
 
 from googletrans import Translator
 
+# set the language code of the desired language
 # list of all available languages here:
 # https://cloud.google.com/translate/docs/languages
-
 language = "vi"
-# language = "th"
 
 # load words from file
 lines = []
