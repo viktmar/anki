@@ -5,3 +5,4 @@ These can be translated into any language supported by Google using [this script
 Pronunciation audio using Google's text-to-speech can then be generated using [this script](generate_audio.py).
 Lastly, with [this script](generate_anki.py) an Anki deck can be created using the words, the translations, and the audio.
 
+[This blog](https://viktmar.github.io/posts/2024-11-12-learn-any-language/) gives more information on the matter.
