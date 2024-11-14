@@ -2,13 +2,11 @@
 import random
 import os
 import genanki
-from gtts import gTTS
 
 # set the language code of the desired language
 # list of all available languages here:
 # https://cloud.google.com/translate/docs/languages
 language = "vi"
-
 
 path = language + "_audio"
 
@@ -19,19 +17,6 @@ with open(language + ".md", "r") as f:
         lines.append(line.strip().split(" -> "))
 
 assert all(len(l) == 2 for l in lines), "number of fields must be 2 for each word"
-
-# ==================================================================================================
-# generate audio
-# ==================================================================================================
-if not os.path.exists(path):
-    os.makedirs(path)
-
-for line in lines:
-    file_path = os.path.join(path, line[0] + '.mp3')
-    if not os.path.exists(file_path):
-        tt = line[1].split(" [")[0]
-        tts = gTTS(tt, lang=language)
-        tts.save(file_path)
 
 # ==================================================================================================
 # generate deck with audio
